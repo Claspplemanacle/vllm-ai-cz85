@@ -1,4 +1,4 @@
-# 
+# Open Source vLLM plugins. Avec génération de code et contrôle de version — optimisé pour des performances et une efficacité maximales.
 
 
 
